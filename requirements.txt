@@ -2,3 +2,9 @@ datasets
 transformers
 numpy
 PyMuPDF
+evaluate
+torch
+torchvision
+torchaudio
+openpyxl
+numba
